@@ -35,6 +35,5 @@ Python helper scripts live under `scripts/`:
 
 ---
 
-<video width="640" height="360" controls>
-  <source src="{{ site.baseurl }}/Annotated Sheep Video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/654c28a5-69b6-4507-94a9-ffb0c72b199e
+
