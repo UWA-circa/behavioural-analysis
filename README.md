@@ -35,13 +35,6 @@ Python helper scripts live under `scripts/`:
 
 ---
 
-## ⚙️ Configuration
-
-Before running, open **`nextflow.config`** and update the `User Configuration` block with your specific paths:
-
-```groovy
-// --- User Configuration ---
-params.video_dir = "/path/to/your/videos"
-params.outdir    = "/path/to/output_folder"
-params.model     = "/path/to/sleap/model_folder"
-params.conda_env = "/path/to/your/Conda/sleap_env"
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}/Annotated Sheep Video.mp4" type="video/mp4">
+</video>
